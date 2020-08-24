@@ -1,2 +1,0 @@
-# dicechallenge
- created with javascript
